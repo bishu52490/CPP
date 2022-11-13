@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
+    //counts and prints the number of digits of the input number.
     int num, count;
     cout<<"Enter a Number: ";
     cin>>num;
@@ -10,4 +11,5 @@ int main(){
     }
     cout<<"No of Digits = "<<count<<endl;
 
+    return 0;
 }

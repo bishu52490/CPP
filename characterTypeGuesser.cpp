@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 int main() {
+    //prints the type of character we input
     char ch;
     ch = cin.get(); //this would give us the decimal no according to the ascii table
 

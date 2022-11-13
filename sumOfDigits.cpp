@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
+    //prints the sum of digits of the input number.
     int num,sum;
     cout<<"Enter a Number: ";
     cin>>num;
